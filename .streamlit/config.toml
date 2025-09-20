@@ -1,0 +1,3 @@
+[server]
+enableCORS = true
+corsAllowedOrigins = ['http://localhost:8501']
